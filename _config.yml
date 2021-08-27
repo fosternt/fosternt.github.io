@@ -108,7 +108,7 @@ author:
   email            :
   links:
     - label: "Email"
-      icon: "fas fa-fw fa-envelope"
+      icon: "far fa-fw fa-envelope"
       url: "mailto:noelf@princeton.edu"
     - label: "Website"
       icon: "fas fa-fw fa-link"
