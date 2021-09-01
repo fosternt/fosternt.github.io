@@ -20,7 +20,7 @@ title                    : "Noel Foster"
 title_separator          : "-"
 subtitle                 : "Postdoctoral Fellow in Technology and International Security<br>The UC Institute on Global Conflict and Cooperation" # site tagline that appears below site title in masthead
 name                     : "Noel Foster"
-description              : "Postdoctoral Fellow in Technology and International Security<br>The UC Institute on Global Conflict and Cooperation"
+description              : "Postdoctoral Fellow in Technology and International Security, The UC Institute on Global Conflict and Cooperation"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -103,7 +103,7 @@ analytics:
 author:
   name             : "Noel Foster"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Postdoctoral Fellow in Technology and International Security, The UC Institute on Global Conflict and Cooperation"
+  bio              : "Postdoctoral Fellow in Technology and International Security<br>The UC Institute on Global Conflict and Cooperation"
   location         : "Washington, DC"
   email            :
   links:
