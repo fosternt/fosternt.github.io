@@ -103,8 +103,8 @@ analytics:
 author:
   name             : "Noel Foster"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Postdoctoral Fellow in Technology and International Security"
-  location         : "The UC Institute on Global Conflict and Cooperation, Washington, DC"
+  bio              : "Postdoctoral Fellow in Technology and International Security, The UC Institute on Global Conflict and Cooperation"
+  location         : "Washington, DC"
   email            :
   links:
     - label: "nfoster@ucsd.edu"
