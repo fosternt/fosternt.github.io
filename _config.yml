@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "berkeley" # "default", "air", "aqua", "contrast", "d
 locale                   : "en-US"
 title                    : "Noel Foster"
 title_separator          : "-"
-subtitle                 : "Postdoctoral Fellow in Technology and International Security\nThe UC Institute on Global Conflict and Cooperation" # site tagline that appears below site title in masthead
+subtitle                 : "Postdoctoral Fellow in Technology and International Security<br>The UC Institute on Global Conflict and Cooperation" # site tagline that appears below site title in masthead
 name                     : "Noel Foster"
 description              : "Postdoctoral Fellow in Technology and International Security, The UC Institute on Global Conflict and Cooperation"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
