@@ -14,8 +14,8 @@ toc: true
 
 ## Book Chapter
 
-* Foster, Noel. 2021. “Propaganda Gone Viral: The Online Disinformation Pandemic in the Age
-of COVID-19.” In <i>The Russian Federation in Global Information Warfare: Influence Operations in
+* Foster, Noel. 2021. “<a href="https://doi.org/10.1007/978-3-030-73955-3_7" target="_blank">Propaganda Gone Viral: The Online Disinformation Pandemic in the Age
+of COVID-19</a>.” In <i>The Russian Federation in Global Information Warfare: Influence Operations in
 Europe and Its Near Abroad</i>, edited by Holger Mölder, Archil Chochia, and Tanel Kerikmäe.
 Berlin, Germany: Springer.
 
