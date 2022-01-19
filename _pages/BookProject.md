@@ -1,6 +1,6 @@
 ---
-permalink: /dissertation/
-title: "Dissertation"
+permalink: /BookProject/
+title: "Book Project"
 layout: single
 toc: false
 ---
