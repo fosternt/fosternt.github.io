@@ -119,9 +119,7 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin-in"
       url: "https://www.linkedin.com/in/noelfoster/"
-    - label: "fosternt"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/fosternt"
+
 
 # Site Footer
 footer:
