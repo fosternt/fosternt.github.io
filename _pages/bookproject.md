@@ -1,5 +1,5 @@
 ---
-permalink: /BookProject/
+permalink: /bookproject/
 title: "Book Project"
 layout: single
 toc: false
