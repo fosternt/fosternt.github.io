@@ -21,7 +21,7 @@ Berlin, Germany: Springer.
 
 ## Dissertation Book Project
 
-* <a href="./bookproject" target="_blank"><i>Digital Disruption and Revisionist Statecraft: How Authoritarian Regimes Shape their Adversaries’ Politics</i></a>
+* <a href="/bookproject" target="_blank"><i>Digital Disruption and Revisionist Statecraft: How Authoritarian Regimes Shape their Adversaries’ Politics</i></a>
 
 
 ## Working Papers
