@@ -14,7 +14,7 @@ toc: true
 
 ## Book Chapters
 
-* Foster, Noel. 2022. “<a href="[https://doi.org/10.1007/978-3-030-73955-3_7]([https://link.springer.com/chapter/10.1007/978-3-030-99987-2_13](https://link.springer.com/chapter/10.1007/978-3-030-99987-2_13))" target="_blank">The Best of Enemies: Identity, Recursion and the Convergence of Kremlin and Estonian Populists' Narratives</a>.” In <i>Information Wars in the Baltic States: Russia’s Long Shadow</i>, edited by Janis Chakars and Indra Ekmanis. London: Palgrave Macmillan.
+* Foster, Noel. 2022. “<a href="https://link.springer.com/chapter/10.1007/978-3-030-99987-2_13" target="_blank">The Best of Enemies: Identity, Recursion and the Convergence of Kremlin and Estonian Populists' Narratives</a>.” In <i>Information Wars in the Baltic States: Russia’s Long Shadow</i>, edited by Janis Chakars and Indra Ekmanis. London: Palgrave Macmillan.
 
 * Foster, Noel. 2021. “<a href="https://doi.org/10.1007/978-3-030-73955-3_7" target="_blank">Propaganda Gone Viral: The Online Disinformation Pandemic in the Age
 of COVID-19</a>.” In <i>The Russian Federation in Global Information Warfare: Influence Operations in
