@@ -18,9 +18,9 @@ minimal_mistakes_skin    : "berkeley" # "default", "air", "aqua", "contrast", "d
 locale                   : "en-US"
 title                    : "Noel Foster"
 title_separator          : "-"
-subtitle                 : "Assistant Professor, Joint Military Operations<br>The Naval War College" # site tagline that appears below site title in masthead
+subtitle                 : "Assistant Professor, Joint Military Operations<br>The U.S. Naval War College" # site tagline that appears below site title in masthead
 name                     : "Noel Foster"
-description              : "Assistant Professor, Joint Military Operations, The Naval War College"
+description              : "Assistant Professor, Joint Military Operations, The U.S. Naval War College"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -104,7 +104,7 @@ author:
   name             : "Noel Foster"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Assistant Professor, Joint Military Operations"
-  location         : "The Naval War College"
+  location         : "The U.S. Naval War College"
   email            :
   links:
     - label: "noel.foster@usnwc.edu"
