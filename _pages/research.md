@@ -39,7 +39,5 @@ Please <a href="mailto:nfoster@ucsd.edu" target="_blank">email me</a> for the la
 
 * "Blind Man's Bluff? Deterrence and the Role of Attribution in Cyber Attacks."
 
-* "Blind Man's Bluff: Deterrence and the Role of Attribution in Hybrid Threats"
-
 * "The (Political) Economy of Repression: Repression, Redistribution and Alliance Formation in the Middle East and North Africa." 
 
